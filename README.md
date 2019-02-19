@@ -14,3 +14,8 @@ Write your solution in `src/index.js`
 - Run `npm install` in command line
 - Run `npm test` in command line
 - You will see the number of passing and failing tests
+
+
+
+- сначала думал реализовать через цикл, потом думал, через call, map, все не шло и было сложно, в итоге переписал самым простым способом 
+- перешел на сайт физики, нашел формулу градусов в фарингейты, и реализовал ее))
