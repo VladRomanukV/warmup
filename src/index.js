@@ -7,4 +7,4 @@ module.exports = function warmup(temperature) {
 
 }; 
 
-warmup(); 
+// warmup(); 
