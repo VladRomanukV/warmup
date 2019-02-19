@@ -6,5 +6,3 @@ module.exports = function warmup(temperature) {
 	return (temperature * umn) + sum; 
 
 }; 
-
-// warmup(); 
